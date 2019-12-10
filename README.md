@@ -167,5 +167,5 @@ VS Code — это фантастический пример бесплатно�
 # Top 10 ways to speed up programmer's work in VS Code
 
 
-Visual Studio Code (also called VS Code and VSCode) is a cost — effective but powerful cross-platform code editor designed as a desktop application. VS Code supports many development tools, such as TypeScript and the Chrome debugger. And also the fact that an incredible number of open-source extensions are written to it, makes VS Code very popular and beloved by many editor.
+Visual Studio Code (also called VS Code and VSCode) — effective but powerful cross-platform code editor designed as a desktop application. VS Code supports many development tools, such as TypeScript and the Chrome debugger. And also the fact that an incredible number of open-source extensions are written to it, makes VS Code very popular and beloved by many editor.
 
