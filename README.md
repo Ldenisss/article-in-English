@@ -160,3 +160,12 @@ Content-Type: application/json
 VS Code — это фантастический пример бесплатного опенсорсного приложения, которое способно помочь всем желающим в деле оптимизации и ускорения работы. Поэтому тому, кто заинтересован в том, чтобы извлечь из VS Code максимум полезностей, стоит как можно лучше изучить этот редактор.
 
 Хотя ни один инструмент не способен помешать появлению плохо написанного кода, в VS Code можно найти достаточно средств, включая стандартные возможности и расширения, которые могут помочь программисту в повышении качества его кода.
+
+
+## English translation
+
+# Top 10 ways to speed up programmer's work in VS Code
+
+
+Visual Studio Code (also called VS Code and VSCode) is a cost — effective but powerful cross-platform code editor designed as a desktop application. VS Code supports many development tools, such as TypeScript and the Chrome debugger. And also the fact that an incredible number of open-source extensions are written to it, makes VS Code very popular and beloved by many editor.
+
